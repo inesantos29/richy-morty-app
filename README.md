@@ -1,0 +1,1 @@
+# richy-morty-app
